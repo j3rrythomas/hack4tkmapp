@@ -8,6 +8,7 @@ pystan==2.19.1.1
 fastapi==0.68.0
 uvicorn==0.14.0
 gunicorn==20.1.0
+pydantic
 
 sklearn
 joblib==1.0.1
